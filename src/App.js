@@ -46,7 +46,7 @@ function App() {
 		}
 		if (choice === 2) {
 			setName('');
-			setPass('')
+			setPass('');
 			return nav(`/`);
 		}
 
